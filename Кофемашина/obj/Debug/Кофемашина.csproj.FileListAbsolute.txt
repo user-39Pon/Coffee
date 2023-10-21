@@ -1,0 +1,16 @@
+D:\Колледж\С#\Кофемашина\Кофемашина\bin\Debug\Кофемашина.exe.config
+D:\Колледж\С#\Кофемашина\Кофемашина\bin\Debug\Кофемашина.exe
+D:\Колледж\С#\Кофемашина\Кофемашина\bin\Debug\Кофемашина.pdb
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.csproj.AssemblyReference.cache
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.Properties.Resources.resources
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.csproj.GenerateResource.cache
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.csproj.CoreCompileInputs.cache
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.exe
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.pdb
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.CoffeeMachine.resources
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.Forms.Mixing.resources
+D:\Колледж\С#\Кофемашина\Кофемашина\obj\Debug\Кофемашина.Forms.ResultCoffee.resources
+C:\Users\stud\Desktop\Кофемашина\Кофемашина\obj\Debug\Кофемашина.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Кофемашина\Кофемашина\obj\Debug\Кофемашина.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\Кофемашина\Кофемашина\obj\Debug\Кофемашина.exe
+C:\Users\stud\Desktop\Кофемашина\Кофемашина\obj\Debug\Кофемашина.pdb
