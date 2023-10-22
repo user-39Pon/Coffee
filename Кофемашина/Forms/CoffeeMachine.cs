@@ -227,10 +227,10 @@ namespace Кофемашина
 
         private void button_start_Click(object sender, EventArgs e)
         {
-            //сброс всех данных о заказанном напитке
+            //перенос данных на форму ResultCoffee
+            ResultCoffee resultCoffee = new ResultCoffee(napitok, Convert.ToInt32(numericUpDown_sugar.Value), emkost);
 
-            Sostav.SaveSostav(0, 0, 0);
-
+            //сброс данных о заказанном напитке на данной форме
             napitok = 0;
             emkost = 0;
 
@@ -251,7 +251,6 @@ namespace Кофемашина
             numericUpDown_sugar.Value = 0;
 
             //переход на форму ResultCoffee
-            ResultCoffee resultCoffee = new ResultCoffee();
             resultCoffee.Show();
             this.Hide();
         }
